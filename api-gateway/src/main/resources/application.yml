@@ -1,0 +1,53 @@
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    gateway:
+        routes:
+          - id : exchange-service
+            uri: lb://EXCHANGE-SERVICE
+            predicates:
+              - Path=/exchange-api/**
+          - id: conversion-service
+            uri: lb://CONVERSION-SERVICE
+            predicates:
+              - Path=/conversion-api/**
+          - id: limits-service
+            uri: lb://LIMITS-SERVICE
+            predicates:
+              - Path=/limits-api/**
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone : http://localhost:8888/eureka
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+
+
+
+
+
+server:
+  port: 8989
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: gateway
+  endpoint:
+    gateway:
+      enabled: true
+  tracing:
+    sampling:
+      probability: 1
+
+logging:
+  file:
+    name: /Users/blessanthomas/projects/microservices/cc-microservices/cc-microservices.log
+

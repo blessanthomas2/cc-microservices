@@ -1,0 +1,943 @@
+2024-08-04T08:29:35.855+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:42:08.016+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:47:08.019+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:52:08.042+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:57:08.047+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:02:08.051+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:07:08.054+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:12:08.057+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:19:25.703+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:24:25.710+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:29:25.717+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:34:25.725+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:39:25.738+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:44:25.745+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:49:25.764+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:24:19.085+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:29:19.096+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:34:19.108+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:39:19.117+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:44:19.126+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:49:19.129+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:54:19.133+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T12:59:11.705+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:04:11.709+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:09:11.709+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:14:11.717+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:19:11.718+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:42:37.597+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 35108 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T16:42:37.598+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T16:42:37.632+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T16:42:37.632+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T16:42:38.146+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=af0d00cf-5370-30d7-a5f4-26008e5a7272
+2024-08-04T16:42:38.336+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T16:42:38.344+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T16:42:38.344+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T16:42:38.400+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T16:42:38.401+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 768 ms
+2024-08-04T16:42:38.739+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T16:42:38.787+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T16:42:38.855+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T16:42:38.859+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:42:38.892+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T16:42:38.896+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T16:42:38.897+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T16:42:38.916+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T16:42:38.916+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T16:42:38.916+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T16:42:38.917+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T16:42:38.988+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T16:42:38.991+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T16:42:38.994+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T16:42:39.000+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722786159000 with initial instances count: 5
+2024-08-04T16:42:39.003+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T16:42:39.003+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722786159003, current=UP, previous=STARTING]
+2024-08-04T16:42:39.005+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T16:42:39.028+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T16:42:39.029+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T16:42:39.048+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 2.721 seconds (process running for 3.101)
+2024-08-04T16:42:39.054+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T16:42:54.376+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-5] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:42:54.530+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T16:42:54.530+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T16:42:54.531+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-08-04T16:42:54.556+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-1] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:42:54.609+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-5] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:42:56.473+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-6] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:42:56.539+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-2] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:42:56.548+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-6] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:42:57.064+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-7] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:42:57.079+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-3] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:42:57.093+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-7] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:42:57.608+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-8] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:42:57.636+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-4] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:42:57.645+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-8] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:42:58.072+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-9] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:42:58.083+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [http-nio-8001-exec-5] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:42:58.098+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-9] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:44:52.338+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:47:38.934+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:49:52.341+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:52:08.635+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T16:52:08.636+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722786728636, current=DOWN, previous=UP]
+2024-08-04T16:52:08.636+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T16:52:08.641+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T16:52:08.643+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T16:52:11.645+01:00  WARN [limits-service,,,] 35108 --- [limits-service] [DiscoveryClient-0] c.netflix.discovery.TimedSupervisorTask  : task supervisor shutting down, can't accept the task
+2024-08-04T16:52:11.647+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T16:52:11.653+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T16:52:11.658+01:00  INFO [limits-service,,,] 35108 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T16:52:15.532+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 35325 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T16:52:15.534+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T16:52:15.567+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T16:52:15.567+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T16:52:16.059+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=af0d00cf-5370-30d7-a5f4-26008e5a7272
+2024-08-04T16:52:16.293+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T16:52:16.303+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T16:52:16.304+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T16:52:16.357+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T16:52:16.357+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 789 ms
+2024-08-04T16:52:16.706+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T16:52:16.731+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T16:52:16.791+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T16:52:16.795+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T16:52:16.812+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T16:52:16.845+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T16:52:16.847+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T16:52:16.849+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T16:52:16.853+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722786736853 with initial instances count: 5
+2024-08-04T16:52:16.854+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T16:52:16.855+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722786736855, current=UP, previous=STARTING]
+2024-08-04T16:52:16.856+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T16:52:16.868+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T16:52:16.869+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T16:52:16.879+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 2.343 seconds (process running for 2.67)
+2024-08-04T16:52:16.883+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T16:52:25.763+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-1] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:52:25.819+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [http-nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T16:52:25.820+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T16:52:25.821+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-04T16:52:25.840+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [http-nio-8001-exec-1] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:52:25.860+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-1] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:54:05.227+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T16:54:05.227+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722786845227, current=DOWN, previous=UP]
+2024-08-04T16:54:05.228+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T16:54:05.232+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T16:54:05.235+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T16:54:08.239+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T16:54:08.245+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T16:54:08.253+01:00  INFO [limits-service,,,] 35325 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T16:54:12.314+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 35381 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T16:54:12.316+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T16:54:12.346+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T16:54:12.346+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T16:54:12.850+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=af0d00cf-5370-30d7-a5f4-26008e5a7272
+2024-08-04T16:54:13.046+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T16:54:13.056+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T16:54:13.057+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T16:54:13.113+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T16:54:13.113+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 766 ms
+2024-08-04T16:54:13.457+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T16:54:13.466+01:00  WARN [limits-service,,,] 35381 --- [limits-service] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception with message: Spring Cloud/ Spring Boot version compatibility checks have failed: [[VerificationResult@63de4fa description = 'Spring Cloud Sleuth is not compatible with this Spring Cloud release train', action = 'Migrate from Spring Cloud Sleuth to Micrometer Tracing .
+You can check the Sleuth 3.1 Migration Guide over here [https://github.com/micrometer-metrics/tracing/wiki/Spring-Cloud-Sleuth-3.1-Migration-Guide]. 
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]']]
+2024-08-04T16:54:13.469+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-08-04T16:54:13.480+01:00  INFO [limits-service,,,] 35381 --- [limits-service] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-08-04T16:54:13.496+01:00 ERROR [limits-service,,,] 35381 --- [limits-service] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Cloud Sleuth is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Migrate from Spring Cloud Sleuth to Micrometer Tracing .
+You can check the Sleuth 3.1 Migration Guide over here [https://github.com/micrometer-metrics/tracing/wiki/Spring-Cloud-Sleuth-3.1-Migration-Guide]. 
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2024-08-04T16:54:50.926+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 35387 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T16:54:50.928+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T16:54:50.962+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T16:54:50.962+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T16:54:51.459+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=014b5261-aef2-3828-8e32-5e2671160038
+2024-08-04T16:54:51.652+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T16:54:51.661+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T16:54:51.662+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T16:54:51.712+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T16:54:51.713+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 749 ms
+2024-08-04T16:54:52.053+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T16:54:52.075+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T16:54:52.129+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T16:54:52.132+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:54:52.148+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T16:54:52.148+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T16:54:52.148+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T16:54:52.148+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T16:54:52.148+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T16:54:52.148+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T16:54:52.149+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T16:54:52.179+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T16:54:52.180+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T16:54:52.182+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T16:54:52.185+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722786892185 with initial instances count: 4
+2024-08-04T16:54:52.187+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T16:54:52.187+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722786892187, current=UP, previous=STARTING]
+2024-08-04T16:54:52.188+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T16:54:52.199+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T16:54:52.200+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T16:54:52.210+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 2.246 seconds (process running for 2.573)
+2024-08-04T16:54:52.214+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T16:54:52.342+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:54:58.100+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-3] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:54:58.636+01:00 ERROR 29219 --- [conversion-service] [http-nio-8200-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T15:54:58.571+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]] with root cause
+
+feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T15:54:58.571+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]
+	at feign.FeignException.serverErrorStatus(FeignException.java:259) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:206) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:194) ~[feign-core-13.2.1.jar:na]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.decodeError(InvocationContext.java:126) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.proceed(InvocationContext.java:72) ~[feign-core-13.2.1.jar:na]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:63) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:114) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:70) ~[feign-core-13.2.1.jar:na]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:99) ~[feign-core-13.2.1.jar:na]
+	at jdk.proxy2/jdk.proxy2.$Proxy71.exchange(Unknown Source) ~[na:na]
+	at com.example.conversion_service.ConversionController.conversion(ConversionController.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2024-08-04T16:55:34.547+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-4] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T16:55:34.615+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [http-nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T16:55:34.615+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T16:55:34.616+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-08-04T16:55:34.638+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [http-nio-8001-exec-1] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T16:55:34.653+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-4] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T16:59:52.149+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:59:52.343+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:04:52.149+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:04:52.340+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:09:52.152+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:09:52.342+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:11:28.796+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T17:11:28.797+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722787888797, current=DOWN, previous=UP]
+2024-08-04T17:11:28.797+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T17:11:28.801+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T17:11:28.805+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T17:11:31.812+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T17:11:31.818+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T17:11:31.825+01:00  INFO [limits-service,,,] 35387 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T17:11:34.081+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 35673 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T17:11:34.083+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T17:11:34.112+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T17:11:34.113+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T17:11:34.603+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=014b5261-aef2-3828-8e32-5e2671160038
+2024-08-04T17:11:34.816+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T17:11:34.826+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T17:11:34.826+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T17:11:34.886+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T17:11:34.886+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 772 ms
+2024-08-04T17:11:35.230+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T17:11:35.260+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T17:11:35.330+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T17:11:35.333+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:11:35.348+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T17:11:35.348+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T17:11:35.349+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T17:11:35.349+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T17:11:35.349+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T17:11:35.349+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T17:11:35.350+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T17:11:35.380+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T17:11:35.382+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T17:11:35.384+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T17:11:35.387+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722787895387 with initial instances count: 5
+2024-08-04T17:11:35.389+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T17:11:35.389+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722787895389, current=UP, previous=STARTING]
+2024-08-04T17:11:35.390+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T17:11:35.403+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T17:11:35.404+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T17:11:35.414+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 2.332 seconds (process running for 2.696)
+2024-08-04T17:11:35.418+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T17:11:43.339+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-6] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T17:11:43.459+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [http-nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T17:11:43.459+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T17:11:43.460+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-04T17:11:43.484+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [http-nio-8001-exec-1] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T17:11:43.524+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-6] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T17:12:07.012+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T17:12:07.012+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722787927012, current=DOWN, previous=UP]
+2024-08-04T17:12:07.012+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T17:12:07.015+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T17:12:07.020+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T17:12:10.023+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T17:12:10.029+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T17:12:10.035+01:00  INFO [limits-service,,,] 35673 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T17:12:13.808+01:00  INFO 35694 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 35694 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T17:12:13.810+01:00  INFO 35694 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T17:12:13.839+01:00  INFO 35694 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T17:12:13.840+01:00  INFO 35694 --- [limits-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T17:12:14.337+01:00  INFO 35694 --- [limits-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f1795004-2ea8-371e-9098-331a0dc0c4a0
+2024-08-04T17:12:14.539+01:00  INFO 35694 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T17:12:14.549+01:00  INFO 35694 --- [limits-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T17:12:14.549+01:00  INFO 35694 --- [limits-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T17:12:14.601+01:00  INFO 35694 --- [limits-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T17:12:14.601+01:00  INFO 35694 --- [limits-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 760 ms
+2024-08-04T17:12:14.944+01:00  INFO 35694 --- [limits-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T17:12:14.967+01:00  INFO 35694 --- [limits-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T17:12:15.043+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T17:12:15.047+01:00  INFO 35694 --- [limits-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T17:12:15.065+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T17:12:15.097+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T17:12:15.099+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T17:12:15.101+01:00  INFO 35694 --- [limits-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T17:12:15.105+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722787935105 with initial instances count: 5
+2024-08-04T17:12:15.106+01:00  INFO 35694 --- [limits-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T17:12:15.107+01:00  INFO 35694 --- [limits-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722787935107, current=UP, previous=STARTING]
+2024-08-04T17:12:15.108+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T17:12:15.119+01:00  INFO 35694 --- [limits-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T17:12:15.120+01:00  INFO 35694 --- [limits-service] [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T17:12:15.130+01:00  INFO 35694 --- [limits-service] [main] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 2.271 seconds (process running for 2.588)
+2024-08-04T17:12:15.133+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T17:12:20.807+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-7] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T17:12:20.836+01:00 ERROR 29219 --- [conversion-service] [http-nio-8200-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T16:12:20.833+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]] with root cause
+
+feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T16:12:20.833+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]
+	at feign.FeignException.serverErrorStatus(FeignException.java:259) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:206) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:194) ~[feign-core-13.2.1.jar:na]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.decodeError(InvocationContext.java:126) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.proceed(InvocationContext.java:72) ~[feign-core-13.2.1.jar:na]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:63) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:114) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:70) ~[feign-core-13.2.1.jar:na]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:99) ~[feign-core-13.2.1.jar:na]
+	at jdk.proxy2/jdk.proxy2.$Proxy71.exchange(Unknown Source) ~[na:na]
+	at com.example.conversion_service.ConversionController.conversion(ConversionController.java:27) ~[classes/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2024-08-04T17:12:22.081+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-8] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T17:12:22.107+01:00 ERROR 29219 --- [conversion-service] [http-nio-8200-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T16:12:22.104+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]] with root cause
+
+feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T16:12:22.104+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]
+	at feign.FeignException.serverErrorStatus(FeignException.java:259) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:206) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:194) ~[feign-core-13.2.1.jar:na]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.decodeError(InvocationContext.java:126) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.proceed(InvocationContext.java:72) ~[feign-core-13.2.1.jar:na]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:63) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:114) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:70) ~[feign-core-13.2.1.jar:na]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:99) ~[feign-core-13.2.1.jar:na]
+	at jdk.proxy2/jdk.proxy2.$Proxy71.exchange(Unknown Source) ~[na:na]
+	at com.example.conversion_service.ConversionController.conversion(ConversionController.java:27) ~[classes/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2024-08-04T17:12:23.355+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-9] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T17:12:23.369+01:00 ERROR 29219 --- [conversion-service] [http-nio-8200-exec-9] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T16:12:23.367+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]] with root cause
+
+feign.FeignException$InternalServerError: [500 Internal Server Error] during [GET] to [http://API-GATEWAY/exchange-api/from/USD/to/INR/100.0] [ExchangeServiceApiClient#exchange(String,String,double)]: [{"timestamp":"2024-08-04T16:12:23.367+00:00","status":500,"error":"Internal Server Error","path":"/exchange-api/from/USD/to/INR/100.0"}]
+	at feign.FeignException.serverErrorStatus(FeignException.java:259) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:206) ~[feign-core-13.2.1.jar:na]
+	at feign.FeignException.errorStatus(FeignException.java:194) ~[feign-core-13.2.1.jar:na]
+	at feign.codec.ErrorDecoder$Default.decode(ErrorDecoder.java:103) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.decodeError(InvocationContext.java:126) ~[feign-core-13.2.1.jar:na]
+	at feign.InvocationContext.proceed(InvocationContext.java:72) ~[feign-core-13.2.1.jar:na]
+	at feign.ResponseHandler.handleResponse(ResponseHandler.java:63) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:114) ~[feign-core-13.2.1.jar:na]
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:70) ~[feign-core-13.2.1.jar:na]
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:99) ~[feign-core-13.2.1.jar:na]
+	at jdk.proxy2/jdk.proxy2.$Proxy71.exchange(Unknown Source) ~[na:na]
+	at com.example.conversion_service.ConversionController.conversion(ConversionController.java:27) ~[classes/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2024-08-04T17:14:52.340+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:15:19.787+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-10] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T17:15:19.863+01:00  INFO 35694 --- [limits-service] [http-nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T17:15:19.863+01:00  INFO 35694 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T17:15:19.864+01:00  INFO 35694 --- [limits-service] [http-nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-04T17:15:19.888+01:00  INFO 35694 --- [limits-service] [http-nio-8001-exec-1] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T17:15:19.913+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-10] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T17:17:15.067+01:00  INFO 35694 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:19:52.390+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:22:15.116+01:00  INFO 35694 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:24:52.398+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:27:15.130+01:00  INFO 35694 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T17:57:38.942+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - Re-registering apps/LIMITS-SERVICE
+2024-08-04T17:57:38.944+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T17:57:38.964+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T18:29:49.402+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:00:47.663+01:00  INFO 35694 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:03:24.941+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:05:47.662+01:00  INFO 35694 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:08:24.941+01:00  INFO 29219 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:09:22.888+01:00  INFO 35694 --- [limits-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T19:09:22.888+01:00  INFO 35694 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722794962888, current=DOWN, previous=UP]
+2024-08-04T19:09:22.888+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T19:09:22.905+01:00  INFO 35694 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T19:09:22.913+01:00  INFO 35694 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:09:25.921+01:00  INFO 35694 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T19:09:25.929+01:00  INFO 35694 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T19:09:25.936+01:00  INFO 35694 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T19:09:29.788+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 36279 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T19:09:29.790+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T19:09:29.821+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T19:09:29.821+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T19:09:30.527+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.cloud.context.scope.GenericScope     : BeanFactory id=707187d5-ac15-3f23-82b4-05ee5f6d7efb
+2024-08-04T19:09:30.737+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T19:09:30.750+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T19:09:30.750+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T19:09:30.801+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T19:09:30.801+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 978 ms
+2024-08-04T19:09:31.374+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T19:09:31.386+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-04T19:09:31.426+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T19:09:31.472+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T19:09:31.475+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:09:31.490+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T19:09:31.490+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T19:09:31.490+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T19:09:31.490+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T19:09:31.490+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T19:09:31.491+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T19:09:31.491+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T19:09:31.540+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T19:09:31.541+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T19:09:31.544+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T19:09:31.547+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722794971547 with initial instances count: 5
+2024-08-04T19:09:31.549+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T19:09:31.550+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722794971550, current=UP, previous=STARTING]
+2024-08-04T19:09:31.551+01:00  INFO 36279 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T19:09:31.562+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T19:09:31.563+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T19:09:31.576+01:00  INFO 36279 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T19:09:31.579+01:00  INFO 36279 --- [limits-service] [main] [                                                 ] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 2.777 seconds (process running for 3.093)
+2024-08-04T19:09:38.824+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-2] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:09:38.945+01:00  INFO 36279 --- [limits-service] [http-nio-8001-exec-1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T19:09:38.945+01:00  INFO 36279 --- [limits-service] [http-nio-8001-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T19:09:38.946+01:00  INFO 36279 --- [limits-service] [http-nio-8001-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-04T19:09:38.968+01:00  INFO 36279 --- [limits-service] [http-nio-8001-exec-1] [66afc3e2b2efeab2f909b8395354f62a-f909b8395354f62a] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:09:39.022+01:00  INFO 29219 --- [conversion-service] [http-nio-8200-exec-2] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:12:58.626+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] c.e.api_gateway.ApiGatewayApplication    : Starting ApiGatewayApplication using Java 17.0.10 with PID 36354 (/Users/blessanthomas/projects/microservices/cc-microservices/api-gateway/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/api-gateway)
+2024-08-04T19:12:58.628+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] c.e.api_gateway.ApiGatewayApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T19:12:59.464+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.cloud.context.scope.GenericScope     : BeanFactory id=1adfe979-1bed-3aa2-9a89-10b493409b79
+2024-08-04T19:12:59.512+01:00  WARN 36354 --- [api-gateway] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-08-04T19:12:59.514+01:00  WARN 36354 --- [api-gateway] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-08-04T19:12:59.515+01:00  WARN 36354 --- [api-gateway] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [loadBalancerWebClientBuilderBeanPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-08-04T19:12:59.516+01:00  WARN 36354 --- [api-gateway] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactorDeferringLoadBalancerFilterConfig' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactorDeferringLoadBalancerFilterConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [loadBalancerWebClientBuilderBeanPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-08-04T19:12:59.517+01:00  WARN 36354 --- [api-gateway] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'reactorDeferringLoadBalancerExchangeFilterFunction' of type [org.springframework.cloud.client.loadbalancer.reactive.DeferringLoadBalancerExchangeFilterFunction] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [loadBalancerWebClientBuilderBeanPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-08-04T19:13:00.209+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [After]
+2024-08-04T19:13:00.209+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Before]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Between]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Cookie]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Header]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Host]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Method]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Path]
+2024-08-04T19:13:00.210+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Query]
+2024-08-04T19:13:00.211+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [ReadBody]
+2024-08-04T19:13:00.211+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [RemoteAddr]
+2024-08-04T19:13:00.211+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-08-04T19:13:00.211+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Weight]
+2024-08-04T19:13:00.211+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-08-04T19:13:00.375+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-04T19:13:00.646+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T19:13:00.674+01:00  WARN 36354 --- [api-gateway] [main] [                                                 ] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-08-04T19:13:00.748+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T19:13:00.788+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T19:13:00.792+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T19:13:00.799+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T19:13:01.077+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T19:13:01.078+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T19:13:01.090+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T19:13:01.091+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722795181090 with initial instances count: 5
+2024-08-04T19:13:01.093+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application API-GATEWAY with eureka with status UP
+2024-08-04T19:13:01.093+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795181093, current=UP, previous=STARTING]
+2024-08-04T19:13:01.094+01:00  INFO 36354 --- [api-gateway] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/apples-mbp:api-gateway:8989: registering service...
+2024-08-04T19:13:01.118+01:00  INFO 36354 --- [api-gateway] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/apples-mbp:api-gateway:8989 - registration status: 204
+2024-08-04T19:13:01.203+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8989 (http)
+2024-08-04T19:13:01.204+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8989
+2024-08-04T19:13:01.227+01:00  INFO 36354 --- [api-gateway] [main] [                                                 ] c.e.api_gateway.ApiGatewayApplication    : Started ApiGatewayApplication in 2.953 seconds (process running for 3.346)
+2024-08-04T19:13:15.225+01:00  INFO 29219 --- [conversion-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONVERSION-SERVICE with eureka with status DOWN
+2024-08-04T19:13:15.225+01:00  INFO 29219 --- [conversion-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795195225, current=DOWN, previous=UP]
+2024-08-04T19:13:15.226+01:00  INFO 29219 --- [conversion-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200: registering service...
+2024-08-04T19:13:15.260+01:00  INFO 29219 --- [conversion-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200 - registration status: 204
+2024-08-04T19:13:15.316+01:00  INFO 29219 --- [conversion-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:13:18.653+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] c.e.c.ConversionServiceApplication       : Starting ConversionServiceApplication using Java 17.0.10 with PID 36383 (/Users/blessanthomas/projects/microservices/cc-microservices/conversion-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/conversion-service)
+2024-08-04T19:13:18.655+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] c.e.c.ConversionServiceApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T19:13:19.388+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.cloud.context.scope.GenericScope     : BeanFactory id=71a099a1-93aa-32ac-9e8b-0e1f5254332b
+2024-08-04T19:13:19.420+01:00  WARN 36383 --- [conversion-service] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-08-04T19:13:19.422+01:00  WARN 36383 --- [conversion-service] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-08-04T19:13:19.587+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8200 (http)
+2024-08-04T19:13:19.594+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T19:13:19.595+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-08-04T19:13:19.636+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T19:13:19.636+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 950 ms
+2024-08-04T19:13:20.076+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.c.openfeign.FeignClientFactoryBean   : For 'API-GATEWAY' URL not provided. Will try picking an instance via load-balancing.
+2024-08-04T19:13:20.514+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T19:13:20.529+01:00  WARN 36383 --- [conversion-service] [main] [                                                 ] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-08-04T19:13:20.538+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-04T19:13:20.583+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T19:13:20.613+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T19:13:20.617+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:13:20.637+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T19:13:20.638+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T19:13:20.638+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T19:13:20.638+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T19:13:20.638+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T19:13:20.638+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T19:13:20.638+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T19:13:20.809+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T19:13:20.819+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T19:13:20.820+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T19:13:20.824+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722795200824 with initial instances count: 5
+2024-08-04T19:13:20.825+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CONVERSION-SERVICE with eureka with status UP
+2024-08-04T19:13:20.825+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795200825, current=UP, previous=STARTING]
+2024-08-04T19:13:20.826+01:00  INFO 36383 --- [conversion-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200: registering service...
+2024-08-04T19:13:20.839+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8200 (http) with context path '/'
+2024-08-04T19:13:20.840+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8200
+2024-08-04T19:13:20.850+01:00  INFO 36383 --- [conversion-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200 - registration status: 204
+2024-08-04T19:13:20.858+01:00  INFO 36383 --- [conversion-service] [main] [                                                 ] c.e.c.ConversionServiceApplication       : Started ConversionServiceApplication in 2.519 seconds (process running for 2.893)
+2024-08-04T19:13:21.237+01:00  INFO 36383 --- [conversion-service] [RMI TCP Connection(3)-192.168.5.3] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T19:13:21.237+01:00  INFO 36383 --- [conversion-service] [RMI TCP Connection(3)-192.168.5.3] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T19:13:21.239+01:00  INFO 36383 --- [conversion-service] [RMI TCP Connection(3)-192.168.5.3] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-04T19:13:37.433+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] c.e.e.ExchangeServiceApplication         : Starting ExchangeServiceApplication using Java 17.0.10 with PID 36389 (/Users/blessanthomas/projects/microservices/cc-microservices/exchange-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/exchange-service)
+2024-08-04T19:13:37.435+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] c.e.e.ExchangeServiceApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T19:13:38.258+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-04T19:13:38.398+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 133 ms. Found 1 JPA repository interface.
+2024-08-04T19:13:38.635+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.cloud.context.scope.GenericScope     : BeanFactory id=f77f6766-2d90-3afd-ada2-7dad41d13996
+2024-08-04T19:13:38.928+01:00  WARN 36389 --- [exchange-service] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-08-04T19:13:38.932+01:00  WARN 36389 --- [exchange-service] [main] [                                                 ] trationDelegate$BeanPostProcessorChecker : Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-08-04T19:13:39.154+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8100 (http)
+2024-08-04T19:13:39.162+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T19:13:39.162+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-08-04T19:13:39.224+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T19:13:39.224+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1762 ms
+2024-08-04T19:13:39.624+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-08-04T19:13:39.902+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn1: url=jdbc:h2:file:/Users/blessanthomas/projects/microservices/cc-microservices/exchange-service/src/main/resources/data user=SA
+2024-08-04T19:13:39.903+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-08-04T19:13:39.912+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:/Users/blessanthomas/projects/microservices/cc-microservices/exchange-service/src/main/resources/data'
+2024-08-04T19:13:40.117+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-04T19:13:40.169+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-04T19:13:40.202+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-08-04T19:13:40.501+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-04T19:13:40.548+01:00  WARN 36389 --- [exchange-service] [main] [                                                 ] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-08-04T19:13:41.305+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-04T19:13:41.328+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-04T19:13:41.757+01:00  WARN 36389 --- [exchange-service] [main] [                                                 ] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-04T19:13:41.874+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.c.openfeign.FeignClientFactoryBean   : For 'API-GATEWAY' URL not provided. Will try picking an instance via load-balancing.
+2024-08-04T19:13:43.168+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T19:13:43.223+01:00  WARN 36389 --- [exchange-service] [main] [                                                 ] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-08-04T19:13:43.244+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-04T19:13:43.321+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T19:13:43.349+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T19:13:43.352+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:13:43.371+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T19:13:43.372+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T19:13:43.372+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T19:13:43.372+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T19:13:43.372+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T19:13:43.372+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T19:13:43.372+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T19:13:43.564+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T19:13:43.566+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T19:13:43.568+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T19:13:43.572+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722795223571 with initial instances count: 4
+2024-08-04T19:13:43.582+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application EXCHANGE-SERVICE with eureka with status UP
+2024-08-04T19:13:43.582+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795223582, current=UP, previous=STARTING]
+2024-08-04T19:13:43.584+01:00  INFO 36389 --- [exchange-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EXCHANGE-SERVICE/apples-mbp:exchange-service:8100: registering service...
+2024-08-04T19:13:43.597+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8100 (http) with context path '/'
+2024-08-04T19:13:43.598+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8100
+2024-08-04T19:13:43.610+01:00  INFO 36389 --- [exchange-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EXCHANGE-SERVICE/apples-mbp:exchange-service:8100 - registration status: 204
+2024-08-04T19:13:43.620+01:00  INFO 36389 --- [exchange-service] [main] [                                                 ] c.e.e.ExchangeServiceApplication         : Started ExchangeServiceApplication in 6.526 seconds (process running for 6.936)
+2024-08-04T19:13:44.001+01:00  INFO 36389 --- [exchange-service] [RMI TCP Connection(2)-192.168.5.3] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T19:13:44.001+01:00  INFO 36389 --- [exchange-service] [RMI TCP Connection(2)-192.168.5.3] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T19:13:44.003+01:00  INFO 36389 --- [exchange-service] [RMI TCP Connection(2)-192.168.5.3] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-08-04T19:13:49.815+01:00  INFO 36279 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T19:13:49.816+01:00  INFO 36279 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795229816, current=DOWN, previous=UP]
+2024-08-04T19:13:49.816+01:00  INFO 36279 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T19:13:49.820+01:00  INFO 36279 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T19:13:50.573+01:00  INFO 36279 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:13:53.577+01:00  INFO 36279 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T19:13:53.584+01:00  INFO 36279 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T19:13:53.588+01:00  INFO 36279 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T19:13:56.415+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] c.c.l.LimitsServiceApplication           : Starting LimitsServiceApplication using Java 17.0.10 with PID 36394 (/Users/blessanthomas/projects/microservices/cc-microservices/limits-service/target/classes started by blessanthomas in /Users/blessanthomas/projects/microservices/cc-microservices/limits-service)
+2024-08-04T19:13:56.417+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] c.c.l.LimitsServiceApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-04T19:13:56.446+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:8088/
+2024-08-04T19:13:56.447+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=limits-service, profiles=[default], label=null, version=197cd7252cca367096314649eb7b7146aae23519, state=null
+2024-08-04T19:13:57.133+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.cloud.context.scope.GenericScope     : BeanFactory id=707187d5-ac15-3f23-82b4-05ee5f6d7efb
+2024-08-04T19:13:57.321+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2024-08-04T19:13:57.330+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-04T19:13:57.330+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-08-04T19:13:57.387+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-04T19:13:57.388+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 940 ms
+2024-08-04T19:13:57.903+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2024-08-04T19:13:57.926+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-04T19:13:57.973+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2024-08-04T19:13:58.026+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2024-08-04T19:13:58.029+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:13:58.046+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2024-08-04T19:13:58.046+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2024-08-04T19:13:58.047+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2024-08-04T19:13:58.047+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2024-08-04T19:13:58.047+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2024-08-04T19:13:58.047+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2024-08-04T19:13:58.047+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2024-08-04T19:13:58.100+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2024-08-04T19:13:58.102+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2024-08-04T19:13:58.104+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-08-04T19:13:58.108+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1722795238107 with initial instances count: 4
+2024-08-04T19:13:58.110+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application LIMITS-SERVICE with eureka with status UP
+2024-08-04T19:13:58.110+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795238110, current=UP, previous=STARTING]
+2024-08-04T19:13:58.112+01:00  INFO 36394 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T19:13:58.125+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2024-08-04T19:13:58.126+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8001
+2024-08-04T19:13:58.141+01:00  INFO 36394 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T19:13:58.144+01:00  INFO 36394 --- [limits-service] [main] [                                                 ] c.c.l.LimitsServiceApplication           : Started LimitsServiceApplication in 3.023 seconds (process running for 3.443)
+2024-08-04T19:16:26.032+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-1] [66afc57a61d901f255f86752fba676de-55f86752fba676de] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:16:26.317+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-2] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:16:27.045+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-1] [66afc57a139b89a9a295dad66619bcca-e936eb2cdeb5f884] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:16:27.147+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-3] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:16:27.209+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-1] [                                                 ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-04T19:16:27.209+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-04T19:16:27.211+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-1] [                                                 ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-08-04T19:16:27.238+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-1] [66afc57ba6a139ca5c94adbc3fbc582f-c2fd45e1e2460d1d] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:16:27.397+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-1] [66afc57a139b89a9a295dad66619bcca-e936eb2cdeb5f884] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:16:27.430+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-1] [66afc57a61d901f255f86752fba676de-55f86752fba676de] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:18:00.802+01:00  INFO 36354 --- [api-gateway] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:18:20.643+01:00  INFO 36383 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:18:43.374+01:00  INFO 36389 --- [exchange-service] [AsyncResolver-bootstrap-executor-0] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:18:58.052+01:00  INFO 36394 --- [limits-service] [AsyncResolver-bootstrap-executor-0] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:23:00.802+01:00  INFO 36354 --- [api-gateway] [AsyncResolver-bootstrap-executor-%d] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:23:07.483+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-3] [66afc70b7c4c6105196a17b4e3723fb5-196a17b4e3723fb5] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:07.493+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-5] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:07.502+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-3] [66afc70bc32978d6df5381dc52cfb7c5-23e38572098797e9] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:07.510+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-6] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:07.516+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-3] [66afc70b83af3dced0f201ceea90dc37-92084904dcbe883e] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:07.525+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-3] [66afc70bc32978d6df5381dc52cfb7c5-23e38572098797e9] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:07.530+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-3] [66afc70b7c4c6105196a17b4e3723fb5-196a17b4e3723fb5] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:07.943+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-4] [66afc70b8154d8bee11f8475b708c100-e11f8475b708c100] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:07.947+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-5] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:07.952+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-4] [66afc70b9294f26b53f4cbc78ece2e76-f6420ed24cc2697e] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:07.955+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-6] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:07.959+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-4] [66afc70b1170cbaa54806204b7ee2f49-a826c288f23c001d] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:07.964+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-4] [66afc70b9294f26b53f4cbc78ece2e76-f6420ed24cc2697e] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:07.969+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-4] [66afc70b8154d8bee11f8475b708c100-e11f8475b708c100] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:08.125+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-5] [66afc70c3af054387350089178aabd7a-7350089178aabd7a] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.131+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:08.137+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-5] [66afc70c3ed595f7ec991cb46ccc0293-68ff4def6a45e9cb] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.142+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-8] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:08.146+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-5] [66afc70c34cdef1997c6c6e3642fe088-5dc1c088da2c18fe] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:08.152+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-5] [66afc70c3ed595f7ec991cb46ccc0293-68ff4def6a45e9cb] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:08.156+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-5] [66afc70c3af054387350089178aabd7a-7350089178aabd7a] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:08.289+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-6] [66afc70c932d3fa8d3e18f661fc06166-d3e18f661fc06166] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.291+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:08.294+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-6] [66afc70c88d8b2204f3e878663fe6c7a-3ec241d30ddccfb4] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.299+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:08.304+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-6] [66afc70c83b3b6b2f2c6be33c3638056-2a06aadb0b5ace92] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:08.310+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-6] [66afc70c88d8b2204f3e878663fe6c7a-3ec241d30ddccfb4] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:08.313+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-6] [66afc70c932d3fa8d3e18f661fc06166-d3e18f661fc06166] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:08.445+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-7] [66afc70c197ff775a9b15a8862762e6c-a9b15a8862762e6c] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.447+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:08.450+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-7] [66afc70c55e419def8986d372eb52121-9e148a5f4de8cc6c] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.453+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:08.457+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-7] [66afc70c671e7213408f37b62e71f711-ee0cd1f562d973ba] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:08.467+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-7] [66afc70c55e419def8986d372eb52121-9e148a5f4de8cc6c] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:08.472+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-7] [66afc70c197ff775a9b15a8862762e6c-a9b15a8862762e6c] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:08.591+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-8] [66afc70cd05f2cb92f52b1fd19308b20-2f52b1fd19308b20] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.611+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:08.615+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-8] [66afc70c453248cc1ae2737b37e1f0e0-6f276d4e3d6f06e3] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.617+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:08.621+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-8] [66afc70cdb32ab9eb959c62f730dea0e-8bdd745ab9e004bf] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:08.626+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-8] [66afc70c453248cc1ae2737b37e1f0e0-6f276d4e3d6f06e3] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:08.629+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-8] [66afc70cd05f2cb92f52b1fd19308b20-2f52b1fd19308b20] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:08.740+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-9] [66afc70c766c722ea9c9f98334165bff-a9c9f98334165bff] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.742+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:08.745+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-9] [66afc70c979c3d6ca4e1d7508dc99600-0e94bcf46a6c7401] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.747+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:08.749+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-9] [66afc70ceafb6cd3620b049ac2558328-65c47382954b39a9] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:08.754+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-9] [66afc70c979c3d6ca4e1d7508dc99600-0e94bcf46a6c7401] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:08.758+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-9] [66afc70c766c722ea9c9f98334165bff-a9c9f98334165bff] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:08.899+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-10] [66afc70cdcbc3f571329f14f9c1c6209-1329f14f9c1c6209] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.901+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:08.904+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-10] [66afc70cba0f313da99e22e504a06aae-9cfba1ea7be70239] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:08.906+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:08.909+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-10] [66afc70c010ca7e96c09109c788eb975-dbabf5ec92ec675f] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:08.913+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-10] [66afc70cba0f313da99e22e504a06aae-9cfba1ea7be70239] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:08.916+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-10] [66afc70cdcbc3f571329f14f9c1c6209-1329f14f9c1c6209] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:09.044+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-1] [66afc70d0b0eddf3dbd9ff04f3fac5a0-dbd9ff04f3fac5a0] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:09.046+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:09.049+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-1] [66afc70dc1b9eace0896f26ea06064e5-e0729d9fc9c73767] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:09.051+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:09.055+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-1] [66afc70d2a9264b505db31f560c9c0ab-883fc15c500b8330] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:09.060+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-1] [66afc70dc1b9eace0896f26ea06064e5-e0729d9fc9c73767] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:09.063+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-1] [66afc70d0b0eddf3dbd9ff04f3fac5a0-dbd9ff04f3fac5a0] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:09.174+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-2] [66afc70d1b9f08c40006091c041ed201-0006091c041ed201] c.e.c.ConversionController               : From conversion-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:09.176+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-7] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://EXCHANGE-SERVICE/exchange-api/from/USD/to/INR/100.0 is routed to id: exchange-service, uri:http://localhost:8100/exchange-api/from/USD/to/INR/100.0
+2024-08-04T19:23:09.179+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-2] [66afc70dd6ab4c5709ff99d188a5d3ca-93f60dca9ddbb2ac] c.e.exchange_service.ExchangeController  : From exchange-service. Got request for USD, INR, 100.0
+2024-08-04T19:23:09.181+01:00  INFO 36354 --- [api-gateway] [reactor-http-nio-9] [                                                 ] com.example.api_gateway.LoggingFilter    : Incoming request lb://LIMITS-SERVICE/limits-api/limits is routed to id: limits-service, uri:http://localhost:8001/limits-api/limits
+2024-08-04T19:23:09.183+01:00  INFO 36394 --- [limits-service] [http-nio-8001-exec-2] [66afc70d0cbdaed90dc53185074b3680-8321faa8ae478e0b] c.c.l.controller.LimitsController        : From limits-service {"min":1,"max":119}
+2024-08-04T19:23:09.188+01:00  INFO 36389 --- [exchange-service] [http-nio-8100-exec-2] [66afc70dd6ab4c5709ff99d188a5d3ca-93f60dca9ddbb2ac] c.e.exchange_service.ExchangeController  : From exchange-service. Sending response {"id":1,"from":"USD","to":"INR","exchangeValue":75.00,"port":"8100"}
+2024-08-04T19:23:09.192+01:00  INFO 36383 --- [conversion-service] [http-nio-8200-exec-2] [66afc70d1b9f08c40006091c041ed201-0006091c041ed201] c.e.c.ConversionController               : From conversion-service. Sending response {"id":1,"from":"USD","to":"INR","amount":100.0,"exchangeValue":75.00,"targetValue":7500.000,"port":"8100"}
+2024-08-04T19:23:20.644+01:00  INFO 36383 --- [conversion-service] [AsyncResolver-bootstrap-executor-0] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:23:43.373+01:00  INFO 36389 --- [exchange-service] [AsyncResolver-bootstrap-executor-0] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:23:58.054+01:00  INFO 36394 --- [limits-service] [AsyncResolver-bootstrap-executor-0] [                                                 ] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T19:25:51.351+01:00  INFO 36394 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T19:25:51.352+01:00  INFO 36394 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795951352, current=DOWN, previous=UP]
+2024-08-04T19:25:51.352+01:00  INFO 36394 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T19:25:51.357+01:00  INFO 36394 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T19:25:52.042+01:00  INFO 36394 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:25:55.062+01:00  INFO 36394 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T19:25:55.068+01:00  INFO 36394 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T19:25:55.074+01:00  INFO 36394 --- [limits-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T19:25:56.991+01:00  INFO 36383 --- [conversion-service] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CONVERSION-SERVICE with eureka with status DOWN
+2024-08-04T19:25:56.991+01:00  INFO 36383 --- [conversion-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795956991, current=DOWN, previous=UP]
+2024-08-04T19:25:56.992+01:00  INFO 36383 --- [conversion-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200: registering service...
+2024-08-04T19:25:56.996+01:00  INFO 36383 --- [conversion-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200 - registration status: 204
+2024-08-04T19:25:57.932+01:00  INFO 36383 --- [conversion-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:26:00.936+01:00  INFO 36383 --- [conversion-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T19:26:00.943+01:00  INFO 36383 --- [conversion-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_CONVERSION-SERVICE/apples-mbp:conversion-service:8200 - deregister  status: 200
+2024-08-04T19:26:00.951+01:00  INFO 36383 --- [conversion-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T19:26:02.165+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application EXCHANGE-SERVICE with eureka with status DOWN
+2024-08-04T19:26:02.165+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795962165, current=DOWN, previous=UP]
+2024-08-04T19:26:02.165+01:00  INFO 36389 --- [exchange-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EXCHANGE-SERVICE/apples-mbp:exchange-service:8100: registering service...
+2024-08-04T19:26:02.169+01:00  INFO 36389 --- [exchange-service] [DiscoveryClient-InstanceInfoReplicator-0] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EXCHANGE-SERVICE/apples-mbp:exchange-service:8100 - registration status: 204
+2024-08-04T19:26:02.210+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-04T19:26:02.234+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-08-04T19:26:02.254+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-08-04T19:26:02.454+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:26:05.457+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T19:26:05.463+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_EXCHANGE-SERVICE/apples-mbp:exchange-service:8100 - deregister  status: 200
+2024-08-04T19:26:05.468+01:00  INFO 36389 --- [exchange-service] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2024-08-04T19:26:07.135+01:00  INFO 36354 --- [api-gateway] [SpringApplicationShutdownHook] [                                                 ] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application API-GATEWAY with eureka with status DOWN
+2024-08-04T19:26:07.135+01:00  INFO 36354 --- [api-gateway] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722795967135, current=DOWN, previous=UP]
+2024-08-04T19:26:07.136+01:00  INFO 36354 --- [api-gateway] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/apples-mbp:api-gateway:8989: registering service...
+2024-08-04T19:26:07.142+01:00  INFO 36354 --- [api-gateway] [DiscoveryClient-InstanceInfoReplicator-%d] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/apples-mbp:api-gateway:8989 - registration status: 204
+2024-08-04T19:26:09.834+01:00  INFO 36354 --- [api-gateway] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T19:26:12.840+01:00  INFO 36354 --- [api-gateway] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T19:26:12.846+01:00  INFO 36354 --- [api-gateway] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/apples-mbp:api-gateway:8989 - deregister  status: 200
+2024-08-04T19:26:12.847+01:00  INFO 36354 --- [api-gateway] [SpringApplicationShutdownHook] [                                                 ] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient

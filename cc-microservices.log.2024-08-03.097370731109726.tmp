@@ -1,0 +1,41 @@
+2024-08-04T02:54:28.330+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:37:53.717+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - Re-registering apps/LIMITS-SERVICE
+2024-08-04T08:37:53.718+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T08:37:53.728+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T08:39:51.192+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:44:51.192+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:49:51.205+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:54:51.209+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T08:59:51.212+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:04:51.212+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:09:51.214+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:14:51.216+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:22:08.860+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:27:08.866+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:32:08.874+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:37:08.880+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:42:08.884+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T09:47:08.891+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:22:02.230+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:27:02.240+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:32:02.252+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:37:02.261+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:42:02.273+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:47:02.280+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T10:52:02.293+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T12:55:59.048+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - Re-registering apps/LIMITS-SERVICE
+2024-08-04T12:55:59.049+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T12:55:59.079+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T12:56:54.868+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:01:54.874+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:06:54.876+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:11:54.883+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T13:16:54.883+01:00  INFO 29175 --- [limits-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2024-08-04T16:42:33.106+01:00  INFO 29175 --- [limits-service] [SpringApplicationShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application LIMITS-SERVICE with eureka with status DOWN
+2024-08-04T16:42:33.108+01:00  INFO 29175 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1722786153108, current=DOWN, previous=UP]
+2024-08-04T16:42:33.109+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001: registering service...
+2024-08-04T16:42:33.160+01:00  INFO 29175 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2024-08-04T16:42:33.160+01:00  INFO 29175 --- [limits-service] [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - registration status: 204
+2024-08-04T16:42:33.163+01:00  INFO 29175 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2024-08-04T16:42:33.171+01:00  INFO 29175 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_LIMITS-SERVICE/apples-mbp:limits-service:8001 - deregister  status: 200
+2024-08-04T16:42:33.176+01:00  INFO 29175 --- [limits-service] [SpringApplicationShutdownHook] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
